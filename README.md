@@ -1,1 +1,1 @@
-# Renamed to Cluster and moved to @4k/cluster
+# 790 Model for Raspberry Pi.
